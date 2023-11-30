@@ -8,7 +8,8 @@
 - I am a strong collaborative team player with excellent communication skills, fostering a positive and productive working environment.
 - I have proven ability to adapt to new technologies and industry trends, staying abreast of the latest advancements.
 - I am committed to deliver projects on time, thriving even under the most challenging deadlines.
-- Proficient in a versatile tech stack encompassing Ruby on Rails, ReactJS, Redux/Redux-Thunk, CSS/SCSS, Webpack, CoffeeScript, HTML, Node JS, Sidekiq, and Babel.
+  ### Proficient in a versatile tech stack encompassing
+       Ruby on Rails, ReactJS, Redux/Redux-Thunk, CSS/SCSS, Webpack, CoffeeScript, HTML, Node JS, Sidekiq, and Babel.
 Skills and Tools
 
 ## Libraries: 
