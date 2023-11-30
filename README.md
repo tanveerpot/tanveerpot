@@ -10,8 +10,6 @@
 - I am committed to deliver projects on time, thriving even under the most challenging deadlines.
   ### Proficient in a versatile tech stack encompassing
        Ruby on Rails, ReactJS, Redux/Redux-Thunk, CSS/SCSS, Webpack, CoffeeScript, HTML, Node JS, Sidekiq, and Babel.
-Skills and Tools
-
 ## Libraries: 
                 StimulusJS, jQuery, Material UI
 
