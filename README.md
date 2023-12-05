@@ -1,7 +1,7 @@
 
 ## INTRODUCTION:
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=tanveerpot&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=tanveerpot&show_icons=true&theme=dark">
 
 I bring 8+ years of Full Stack Development expertise, specializing in Javascript and ROR. Proven in crafting robust solutions, adept in Agile methodologies, and dedicated to delivering excellence on time.
 #### Tech-Stack & Libraries
