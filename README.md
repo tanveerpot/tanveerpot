@@ -5,8 +5,9 @@
 
 I bring 8+ years of Full Stack Development expertise, specializing in Javascript and ROR. Proven in crafting robust solutions, adept in Agile methodologies, and dedicated to delivering excellence on time.
 #### Tech-Stack & Libraries
-    Ruby on Rails, ReactJS, Redux/Redux-Thunk, CSS/SCSS, Webpack, CoffeeScript, HTML, Node JS, Sidekiq, 
-    Babel, StimulusJS, jQuery & Material UI
+    Ruby on Rails, ReactJS, Redux/Redux-Thunk,
+    CSS/SCSS, Webpack, CoffeeScript, HTML, NodeJS, 
+    Sidekiq, Babel, StimulusJS, jQuery & Material UI
 #### Revision Control & Bug Tracking: 
     NPM, GIT, JIRA, Clickup, Shortcut, Asana, Sentry, Rollbar
 #### RDBMS & NoSQL: 
