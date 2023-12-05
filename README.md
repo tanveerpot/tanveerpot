@@ -1,7 +1,9 @@
 
 ## INTRODUCTION:
 
-As a seasoned Full Stack Developer, I bring over 8 years of expertise in delivering sophisticated enterprise solutions across diverse domains like E-commerce, Federal Court, and Finance. Specializing in Javascript and ROR, I excel in crafting robust, scalable applications, optimizing system efficiency through advanced algorithmic proficiency. My adeptness in Agile/Scrum methodologies ensures streamlined project management and efficient issue resolution. As a collaborative team player with exceptional communication skills, I foster a positive and productive working environment. Demonstrating a proven ability to adapt to new technologies and industry trends, I stay abreast of the latest advancements. Committed to delivering projects on time, I thrive even under the most challenging deadlines.
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=tanveerpot&show_icons=true">
+
+I bring 8+ years of Full Stack Development expertise, specializing in Javascript and ROR. Proven in crafting robust solutions, adept in Agile methodologies, and dedicated to delivering excellence on time.
 #### Tech-Stack & Libraries
     Ruby on Rails, ReactJS, Redux/Redux-Thunk, CSS/SCSS, Webpack, CoffeeScript, HTML, Node JS, Sidekiq, 
     Babel, StimulusJS, jQuery & Material UI
