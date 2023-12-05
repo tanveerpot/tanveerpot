@@ -1,30 +1,16 @@
 
 ## INTRODUCTION:
 
-
-- I am an accomplished Full Stack Developer with over 8 years of expertise in delivering enterprise solutions across diverse domains such as E-commerce, Federal Court, and Finance.
-- I am Ruby on Rails specialist, excelling in crafting robust, scalable applications and optimizing system efficiency with advanced algorithmic expertise.
-- My proficiency in Agile/Scrum methodologies, ensure streamlined project management and efficient issue resolution.
-- I am a strong collaborative team player with excellent communication skills, fostering a positive and productive working environment.
-- I have proven ability to adapt to new technologies and industry trends, staying abreast of the latest advancements.
-- I am committed to deliver projects on time, thriving even under the most challenging deadlines.
-  ### Proficient in a versatile tech stack encompassing
-       Ruby on Rails, ReactJS, Redux/Redux-Thunk, CSS/SCSS, Webpack, CoffeeScript, HTML, Node JS, Sidekiq, and Babel.
-## Libraries: 
-                StimulusJS, jQuery, Material UI
-
-## Revision Control & Bug Tracking: 
-                NPM, GIT, JIRA, Clickup, Shortcut, Asana, Sentry, Rollbar
-## RDBMS & NoSQL: 
-                MySQL, Postgres, Redis
-## Integration & DevOps: 
-                Docker, CircleCI, AWS EC2, AWS RDS, AWS S3, Heroku
-## Design & Lifecycle: 
-                Agile & Scrum, Design Patterns, Data Structures & Algorithm
-## Mobile Development: 
-                React Native, EXPO CLI, React Native CLI
-## Application Servers: 
-                Puma, Ngnix
-
+As a seasoned Full Stack Developer, I bring over 8 years of expertise in delivering sophisticated enterprise solutions across diverse domains like E-commerce, Federal Court, and Finance. Specializing in Javascript and ROR, I excel in crafting robust, scalable applications, optimizing system efficiency through advanced algorithmic proficiency. My adeptness in Agile/Scrum methodologies ensures streamlined project management and efficient issue resolution. As a collaborative team player with exceptional communication skills, I foster a positive and productive working environment. Demonstrating a proven ability to adapt to new technologies and industry trends, I stay abreast of the latest advancements. Committed to delivering projects on time, I thrive even under the most challenging deadlines.
+#### Tech-Stack & Libraries
+    Ruby on Rails, ReactJS, Redux/Redux-Thunk, CSS/SCSS, Webpack, CoffeeScript, HTML, Node JS, Sidekiq, 
+    Babel, StimulusJS, jQuery & Material UI
+#### Revision Control & Bug Tracking: 
+    NPM, GIT, JIRA, Clickup, Shortcut, Asana, Sentry, Rollbar
+#### RDBMS & NoSQL: 
+    MySQL, Postgres, Redis
+#### DevOps, Design & Lifecycle: 
+    Docker, CircleCI, AWS EC2, AWS RDS, AWS S3, Heroku, Agile & Scrum, Design Patterns, Data Structures & Algorithm        
+#### Mobile Development & Application Servers: 
+    React Native, EXPO CLI, React Native CLI, Puma, Ngnix
                   
-My unwavering commitment to quality and a passion for solving intricate problems have consistently driven successful outcomes in all my endeavors.
